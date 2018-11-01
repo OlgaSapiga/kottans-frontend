@@ -4,9 +4,7 @@ Now I feel confident using Git and GitHub. The course [How to use Git and GitHub
 ## Linux CLI, and HTTP
 [Screenshot of finished lessons](task_linux_cli/screenshot.jpg) 
 <br>
-<ul>
-  <li>Course about command line was interesting and not so hard to understand.</li> 
-  <li>Information about HTTP was new to me, but it was difficult to understand and realize things about HTTP.</li>
-  <li>Although, information about secure HTTP surprised me, I didn't know this protocol.</li>
-  <li>In future I want to use secure connection on the web, also SSL and TLS to encrypt and decrypt data between HTTP and TCP.</li>
-</ul>
+Course about command line was interesting and not so hard to understand.
+Information about HTTP was new to me, but it was difficult to understand and realize things about HTTP.
+Although, information about secure HTTP surprised me, I didn't know this protocol.
+In future I want to use secure connection on the web, also SSL and TLS to encrypt and decrypt data between HTTP and TCP.
