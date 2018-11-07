@@ -20,3 +20,9 @@ I really like this task. It was pretty similar to task 0, but more understandabl
 [Screenshot of finished course 2](task_git_html_css_intro/screenshot(eng).jpg)
 <br>
 This task was interesting. I have already done course in HTML Academy, so course in Udacity was like remembering and repeating basics of HTML and CSS.
+## Responsive Web Design
+[Screenshot of finished course 1](task_responsive_web_design/task1.jpg)
+<br>
+[Screenshot of finished course 2](task_responsive_web_design/task2.jpg)
+<br>
+Course about responsive web design was fascinating and educational. I completed it without a pause. Course about flexbox was really simple and funny with these frogs.
