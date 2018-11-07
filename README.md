@@ -14,3 +14,9 @@ In future I want to use secure connection on the web, also SSL and TLS to encryp
 [Screenshot of finished course 2](task_git_collaboration/second_task.jpg)
 <br>
 I really like this task. It was pretty similar to task 0, but more understandable for me.
+## Intro to HTML and CSS
+[Screenshot of finished course 1](task_git_html_css_intro/screenshot(rus).jpg)
+<br>
+[Screenshot of finished course 2](task_git_html_css_intro/screenshot(eng).jpg)
+<br>
+This task was interesting. I have already done course in HTML Academy, so course in Udacity was like remembering and repeating basics of HTML and CSS.
