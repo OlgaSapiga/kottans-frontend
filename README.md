@@ -26,3 +26,9 @@ This task was interesting. I have already done course in HTML Academy, so course
 [Screenshot of finished course 2](task_responsive_web_design/task2.jpg)
 <br>
 Course about responsive web design was fascinating and educational. I completed it without a pause. Course about flexbox was really simple and funny with these frogs.
+## JS Basics
+[Screenshot of finished course 1](task_js_basics/task1.jpg)
+<br>
+[Screenshot of finished course 2](task_js_basics/task2.jpg)
+<br>
+The subtask 1 was very interesting and understanding, instead of subtask 2, which was difficult. I tried to complete challenges on my own, but always used hints. I want to improve my skills using extra materials.  
